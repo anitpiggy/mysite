@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![avatar](avatar.jpg)
+![avatar](S__12099588.jpg_effected.png)
 
 # Piggy
 
